@@ -9,8 +9,11 @@
     "antd": "^4.16.9",
     "kds-stencil": "^4.5.7",
     "kds-stencil-react": "^4.5.6",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-moment": "^1.1.1",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
